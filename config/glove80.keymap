@@ -114,6 +114,6 @@
             &trans     &kp LSHFT &kp A   &kp S   &kp D   &kp F                                                       &trans  &trans  &trans  &trans  &trans  &trans
             &trans     &kp LCTRL &kp Z   &kp X   &kp C   &kp V   &kp LGUI    &trans   &to 0  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             &trans     &trans    &kp T   &kp G   &kp B          &kp SPACE  &kp LALT  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans 
-        }
+        };
     };
 };
