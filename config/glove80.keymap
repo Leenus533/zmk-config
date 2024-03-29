@@ -12,11 +12,10 @@
 #include <dt-bindings/zmk/rgb.h>
 
 // layers
-#define DEFAULT 0
-#define LOWER 1
-#define MAGIC 2
-#define LAYER_Magic 2
-#define LAYER_Gaming 3
+#define layer_Base 0
+#define layer_Lower 1
+#define layer_Magic 2
+#define layer_Gaming 3
 
 / {
     behaviors {
